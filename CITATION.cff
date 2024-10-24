@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: Lilledahl
+    given-names: Skylar
+  - family-names: Perez Cuarenta
+    given-names: Jesus
+title: "NIWC Pacific Metoc Sensor Public Dataset"
+version: 2.0.4
+date-released: 2024-10-21
